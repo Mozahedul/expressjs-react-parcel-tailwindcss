@@ -9,10 +9,10 @@ backend/node_modules
 
 # testing
 /coverage
-
 # production
 /build
 /dist
+/.parcel-cache
 
 # misc
 .DS_Store
